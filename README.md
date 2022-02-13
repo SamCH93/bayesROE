@@ -6,5 +6,5 @@ Regions of Evidence.
 ## Installation
 
 ```r
-remotes::install_github(repo = "SamCH93/bayesROE")
+remotes::install_github(repo = "SamCH93/bayesROE", subdir = "pkg")
 ```
