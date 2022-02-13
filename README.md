@@ -1,2 +1,10 @@
 # bayesROE
-R package to compute Bayesian Region of Evidence
+
+The bayesROE R package enables computation and visualization of the Bayesian
+Regions of Evidence.
+
+## Installation
+
+```r
+remotes::install_github(repo = "SamCH93/bayesROE")
+```
